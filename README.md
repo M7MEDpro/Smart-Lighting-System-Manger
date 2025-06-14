@@ -92,9 +92,22 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 ## 👩‍💻 Team & Acknowledgments
 
 **Team Members** (Egyptian‑Chinese University, Freshmen, March 2025):\
-Mohamed Badawy Mohamed, Omar Moustafa Salah, Zeyad Waleed Amin, Khaled Karam Mahmoud, Abdelrhman Waleed Hassan, Hazem Mohamed Hamdy,\
-Judy Ehab Abdelmajied, Omar Ahmed Mohamed, Oliver Emad Adly, Adam Tamer Mohamed, Haidy Ahmed Mohamed, Mai Ahmed Mohamed,\
-Martina Anwar Azmy, Rodina Mahmoud Sayed, Salma Waeel Salah, Heba Ahmed Mohamed
+Mohamed Badawy Mohamed @M7MEDpro
+Omar Moustafa Salah
+Zeyad Waleed Amin  @Night1Assassin
+Khaled Karam Mahmoud
+Abdelrhman Waleed Hassan
+Hazem Mohamed Hamdy
+Judy Ehab Abdelmajied
+Omar Ahmed Mohamed
+Oliver Emad Adly
+Adam Tamer Mohamed
+Haidy Ahmed Mohamed
+Mai Ahmed Mohamed
+Martina Anwar Azmy
+Rodina Mahmoud Sayed
+Salma Waeel Salah
+Heba Ahmed Mohamed
 
 **Supervision** & Acknowledgments\*\*\
 Dr. Noha Hussein for guidance, and Dr. Mohamad Talaat
