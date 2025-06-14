@@ -1,0 +1,34 @@
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\bin\Debug\Home Light System.exe.config
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\bin\Debug\Home Light System.exe
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\bin\Debug\Home Light System.pdb
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\bin\Debug\Home Light System.xml
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\bin\Debug\Guna.UI2.dll
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.vbproj.AssemblyReference.cache
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home_Light_System.Form1.resources
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home_Light_System.Resources.resources
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.vbproj.GenerateResource.cache
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.vbproj.CoreCompileInputs.cache
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Lig.1B212121.Up2Date
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.exe
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.xml
+C:\Users\yami_\Documents\Home Light System\Home Light System\Home Light System\obj\Debug\Home Light System.pdb
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.exe.config
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.exe
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.pdb
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.xml
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home_Light_System.Form1.resources
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home_Light_System.Resources.resources
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.vbproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Lig.1B212121.Up2Date
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.exe
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.xml
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.pdb
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Guna.UI.dll
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.exe.manifest
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\bin\Debug\Home Light System.application
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.TrustInfo.xml
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.exe.manifest
+C:\Users\Administrator\Downloads\Home Light System (2)\Home Light System\obj\Debug\Home Light System.application
