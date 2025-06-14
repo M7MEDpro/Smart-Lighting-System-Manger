@@ -91,7 +91,7 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 ## 👩‍💻 Team & Acknowledgments
 
 **Team Members**  
-*Egyptian‑Chinese University, Freshmen, March 2025:*
+*Egyptian‑Chinese University, Freshmen, May 2025:*
 
 - Mohamed Badawy Mohamed – [@M7MEDpro](https://github.com/M7MEDpro)  
 - Omar Moustafa Salah  
