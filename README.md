@@ -6,8 +6,9 @@ Uses light (LDR) and motion (ultrasonic) sensing to drive auto-on/off and bright
 ---
 
 ## 🌱 Back Story
+Our project originated from the need for a smarter, energy-efficient home electrical system. After conducting an analytical study that considered our team’s background, available time, and tight schedule, we identified a problem: most home lighting circuits lack flexibility and real-time responsiveness. We created a system that adapts to ambient sunlight and motion to optimize energy use, using Rapid Application Development (RAD) in VB.NET alongside an Arduino-based sensing network.
 
-This project began as part of our freshman curriculum at the Egyptian‑Chinese University, aiming to apply hands‑on electronics and GUI design skills. Our team wanted to solve the common issue of inflexible home lighting that wastes energy. We designed an Arduino‑based system using an ultrasonic motion sensor and a pre‑built LDR module for ambient detection. A VB.NET application with Guna UI serves as a user interface for manual overrides and brightness tweaking. Without relying on databases, internet connectivity, or complex OOP frameworks, this lean setup delivers real‑time sensor‑driven lighting and granular per‑room control.
+As detailed in our proposal, this Smart Home Lighting System Manager automates LED control based on environmental feedback and provides per-room customization along with real-time power/current calculations.
 
 ---
 
