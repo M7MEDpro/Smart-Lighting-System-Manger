@@ -88,26 +88,27 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 - **Dashboard:** View live power/current readings and historical consumption graphs for each room and overall system.
 
 ---
-
 ## 👩‍💻 Team & Acknowledgments
 
-**Team Members** (Egyptian‑Chinese University, Freshmen, March 2025):\
-Mohamed Badawy Mohamed @M7MEDpro
-Omar Moustafa Salah
-Zeyad Waleed Amin  @Night1Assassin
-Khaled Karam Mahmoud
-Abdelrhman Waleed Hassan
-Hazem Mohamed Hamdy
-Judy Ehab Abdelmajied
-Omar Ahmed Mohamed
-Oliver Emad Adly
-Adam Tamer Mohamed
-Haidy Ahmed Mohamed
-Mai Ahmed Mohamed
-Martina Anwar Azmy
-Rodina Mahmoud Sayed
-Salma Waeel Salah
-Heba Ahmed Mohamed
+**Team Members**  
+*Egyptian‑Chinese University, Freshmen, March 2025:*
+
+- Mohamed Badawy Mohamed – [@M7MEDpro](https://github.com/M7MEDpro)  
+- Omar Moustafa Salah  
+- Zeyad Waleed Amin – [@Night1Assassin](https://github.com/Night1Assassin)  
+- Khaled Karam Mahmoud  
+- Abdelrhman Waleed Hassan  
+- Hazem Mohamed Hamdy  
+- Judy Ehab Abdelmajied  
+- Omar Ahmed Mohamed  
+- Oliver Emad Adly  
+- Adam Tamer Mohamed  
+- Haidy Ahmed Mohamed  
+- Mai Ahmed Mohamed  
+- Martina Anwar Azmy  
+- Rodina Mahmoud Sayed  
+- Salma Waeel Salah  
+- Heba Ahmed Mohamed  
 
 **Supervision** & Acknowledgments\*\*\
 Dr. Noha Hussein for guidance, and Dr. Mohamad Talaat
