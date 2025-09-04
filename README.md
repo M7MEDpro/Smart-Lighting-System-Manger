@@ -1,36 +1,18 @@
 # Smart Home Lighting System Manager
-
-<!-- Badges Section -->
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Smart%20Home-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)  
+![University](https://img.shields.io/badge/University-ECU-red?style=for-the-badge)
+![Project](https://img.shields.io/badge/Type-Student%20Project-blue?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-Freshman%202025-brightgreen?style=for-the-badge)
+
 
 ![ECU](https://img.shields.io/badge/ECU-Egyptian%20Chinese%20University-red?style=for-the-badge)
 ![Engineering](https://img.shields.io/badge/Engineering-Electrical-blue?style=for-the-badge)
-![Project Type](https://img.shields.io/badge/Project-Smart%20Home-green?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Home%20Lighting-purple?style=for-the-badge)
 
-![Team Size](https://img.shields.io/badge/Team%20Size-16%20Members-brightgreen?style=for-the-badge)
-![University Year](https://img.shields.io/badge/Year-Freshman%202025-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-red?style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Sensors-LDR%20%7C%20Ultrasonic-yellow?style=for-the-badge)
-![GUI Framework](https://img.shields.io/badge/GUI-Guna.UI2-purple?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-Arduino%20Uno-teal?style=for-the-badge)
-
-![Energy Efficient](https://img.shields.io/badge/Energy-Efficient-green?style=for-the-badge)
-![Real Time](https://img.shields.io/badge/Real--Time-Monitoring-orange?style=for-the-badge)
-![Motion Detection](https://img.shields.io/badge/Motion-Detection-red?style=for-the-badge)
-![Light Sensing](https://img.shields.io/badge/Light-Sensing-yellow?style=for-the-badge)
-![Power Management](https://img.shields.io/badge/Power-Management-blue?style=for-the-badge)
 
 An end‑to‑end, fully automated home lighting system with feedback‑based control over interior and exterior LEDs.\
 Uses light (LDR) and motion (ultrasonic) sensing to drive auto-on/off and brightness, plus a VB.NET GUI for manual control and power estimation
