@@ -10,10 +10,6 @@
 ![Year](https://img.shields.io/badge/Year-Freshman%202025-brightgreen?style=for-the-badge)
 
 
-![ECU](https://img.shields.io/badge/ECU-Egyptian%20Chinese%20University-red?style=for-the-badge)
-![Engineering](https://img.shields.io/badge/Engineering-Electrical-blue?style=for-the-badge)
-
-
 An end‑to‑end, fully automated home lighting system with feedback‑based control over interior and exterior LEDs.\
 Uses light (LDR) and motion (ultrasonic) sensing to drive auto-on/off and brightness, plus a VB.NET GUI for manual control and power estimation
 
