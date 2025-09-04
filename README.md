@@ -1,15 +1,39 @@
 # Smart Home Lighting System Manager
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team-17%20Members-blue?style=for-the-badge)
+<!-- Badges Section -->
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![ECU](https://img.shields.io/badge/ECU-Egyptian%20Chinese%20University-red?style=for-the-badge)
+![Engineering](https://img.shields.io/badge/Engineering-Electrical-blue?style=for-the-badge)
+![Project Type](https://img.shields.io/badge/Project-Smart%20Home-green?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Home%20Lighting-purple?style=for-the-badge)
+
+![Team Size](https://img.shields.io/badge/Team%20Size-16%20Members-brightgreen?style=for-the-badge)
+![University Year](https://img.shields.io/badge/Year-Freshman%202025-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-red?style=for-the-badge)
+![Sensors](https://img.shields.io/badge/Sensors-LDR%20%7C%20Ultrasonic-yellow?style=for-the-badge)
+![GUI Framework](https://img.shields.io/badge/GUI-Guna.UI2-purple?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-Arduino%20Uno-teal?style=for-the-badge)
+
+![Energy Efficient](https://img.shields.io/badge/Energy-Efficient-green?style=for-the-badge)
+![Real Time](https://img.shields.io/badge/Real--Time-Monitoring-orange?style=for-the-badge)
+![Motion Detection](https://img.shields.io/badge/Motion-Detection-red?style=for-the-badge)
+![Light Sensing](https://img.shields.io/badge/Light-Sensing-yellow?style=for-the-badge)
+![Power Management](https://img.shields.io/badge/Power-Management-blue?style=for-the-badge)
 
 An end‑to‑end, fully automated home lighting system with feedback‑based control over interior and exterior LEDs.\
 Uses light (LDR) and motion (ultrasonic) sensing to drive auto-on/off and brightness, plus a VB.NET GUI for manual control and power estimation
-
-![Smart Home App Interface](docs/Photos/s4%20app.jpg)
 
 ---
 
@@ -70,13 +94,13 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 
 ## 🖥️ Software Prerequisites
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2+-512BD4?style=flat&logo=.net)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
-
 - Arduino IDE (no extra libraries required)
 - Visual Studio / VB.NET targeting .NET Framework 4.7.2 (or later)
 - Guna.UI2.WinForms (latest NuGet package)
+
+### Application Interface
+![Smart Home Lighting App](docs/Photos/s4%20app.jpg)
+*Modern VB.NET GUI built with Guna.UI2 framework for intuitive control and monitoring*
 
 ---
 
@@ -98,15 +122,6 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 - **Automatic Mode:** LEDs respond to ambient light and motion, with adjustable brightness based on sensor readings—rooms light up at optimal levels without user input.
 - **Manual Mode:** Use sliders and toggles in the GUI to control each room's LEDs individually—set on/off states and brightness per room.
 - **Dashboard:** View live power/current readings and historical consumption graphs for each room and overall system.
-
----
-
-## 🎯 Project Stats
-
-![Contributors](https://img.shields.io/github/contributors/M7MEDpro/Smart-Lighting-System-Manger?style=flat-square)
-![Forks](https://img.shields.io/github/forks/M7MEDpro/Smart-Lighting-System-Manger?style=flat-square)
-![Stars](https://img.shields.io/github/stars/M7MEDpro/Smart-Lighting-System-Manger?style=flat-square)
-![Issues](https://img.shields.io/github/issues/M7MEDpro/Smart-Lighting-System-Manger?style=flat-square)
 
 ---
 
@@ -147,12 +162,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 For questions or contributions, please open an issue or reach out to bdwym2007@gmail.com
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdwym2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M7MEDpro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/M7MEDpro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/M7MEDpro)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/M7MEDpro)
-
 ---
 
-> "In a world driven by data, smarter homes mean smarter living."
+> "In a world driven by data, smarter homes mean smarter living"
