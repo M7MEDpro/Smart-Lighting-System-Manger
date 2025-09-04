@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)  
 ![University](https://img.shields.io/badge/University-ECU-red?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Type-Student%20Project-blue?style=for-the-badge)
-![Year](https://img.shields.io/badge/Year-Freshman%202025-brightgreen?style=for-the-badge)
+![Year](https://img.shields.io/badge/Year-Freshman%-brightgreen?style=for-the-badge)
 
 
 An end‑to‑end, fully automated home lighting system with feedback‑based control over interior and exterior LEDs.\
