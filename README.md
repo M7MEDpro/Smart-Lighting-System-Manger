@@ -2,7 +2,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-orange?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-Smart%20Home-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)  
 ![University](https://img.shields.io/badge/University-ECU-red?style=for-the-badge)
