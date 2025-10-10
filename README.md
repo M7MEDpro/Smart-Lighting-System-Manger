@@ -113,7 +113,7 @@ As detailed in our proposal, this Smart Home Lighting System Manager automates L
 - Zeyad Waleed Amin – [@Night1Assassin](https://github.com/Night1Assassin)  
 - Khaled Karam Mahmoud  - [@khaledkaram688](https://github.com/khaledkaram688)  
 - Abdelrhman Waleed Hassan  
-- Hazem Mohamed Hamdy  
+- Hazem Mohamed Hamdy  -[@hazemMo7amed](https://github.com/hazemMo7amed)
 - Judy Ehab Abdelmajied  
 - Omar Ahmed Mohamed  
 - Oliver Emad Adly  
